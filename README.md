@@ -1,5 +1,7 @@
 # Dylan Wang
 
-At **Pine**, I lead product and engineering work across AI assistants for people and businesses, with hands-on ownership from architecture through implementation.
+I work on agent systems and developer infrastructure at **PineAI**—from agent harnesses and backend services to the platforms they run on.
 
-Previously, I built and led infrastructure and cloud platform teams at **Agora**. Earlier, I worked on backend systems and developer infrastructure at **Strikingly**.
+That includes core engineering for our personal and business assistants, and **Pine Computer**, which I built from scratch and own end to end.
+
+Previously, I built and led infrastructure and cloud platform teams at **Agora**.
