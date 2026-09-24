@@ -1,7 +1,9 @@
 # Dylan Wang
 
-I work on agent systems and developer infrastructure at **PineAI**—from agent harnesses and backend services to the platforms they run on.
+I build agent systems and developer platforms at **PineAI**.
 
-That includes core engineering for our personal and business assistants, and **Pine Computer**, which I built from scratch and own end to end.
+My work spans our personal and business assistants—from agent harnesses and backend services to the infrastructure they run on.
 
-Previously, I built and led infrastructure and cloud platform teams at **Agora**.
+### Selected work
+
+**[Pine Computer](https://developers.pine.im/computer/)** gives agents a computer with a browser, shell and files, an API for orchestration, and a live desktop for human handoff. I designed and built it from scratch and own it end to end.
