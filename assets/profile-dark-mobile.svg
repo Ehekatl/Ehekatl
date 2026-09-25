@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-labelledby="title desc"><title id="title">Dylan Wang</title><desc id="desc">Agent systems, developer platforms and distributed infrastructure.</desc><rect width="600" height="200" fill="#0d1117"/><text x="0" y="76" fill="#e9f1eb" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="600" letter-spacing="-2.8">Dylan Wang</text><text x="2" y="128" fill="#9db0a3" font-family="Arial, Helvetica, sans-serif" font-size="23">Agent systems · Developer platforms</text><text x="2" y="160" fill="#9db0a3" font-family="Arial, Helvetica, sans-serif" font-size="23">Distributed infrastructure</text><g transform="translate(177,20) scale(.38,.7)">  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M760 48H1096M760 192H1096" stroke="#15221c"/>
+    <path d="M784 24V216M856 24V216M928 24V216M1000 24V216M1072 24V216" stroke="#15221c"/>
+    <rect x="831" y="62" width="154" height="116" rx="21" fill="#0d1117" stroke="#2b4036"/>
+    <rect x="861" y="85" width="94" height="70" rx="13" fill="#15221c" stroke="#2b4036"/>
+    <path d="M759 84H801Q814 84 814 97V107Q814 120 827 120H889" stroke="#71ad8f" stroke-width="1.7"/>
+    <path d="M759 156H788Q801 156 801 143V80Q801 48 833 48H982Q1014 48 1014 80V94Q1014 107 1027 107H1097" stroke="#2b4036" stroke-width="1.7"/>
+    <path d="M925 120H998Q1027 120 1027 149V156Q1027 169 1040 169H1097" stroke="#71ad8f" stroke-width="1.7"/>
+    <path d="M759 120H784Q793 120 793 129V168Q793 194 819 194H996Q1008 194 1008 182V167" stroke="#2b4036" stroke-width="1.7"/>
+    <path d="M907 102L925 120L907 138L889 120Z" stroke="#a0d5b4" stroke-width="1.6"/>
+    <path d="M907 108V132M895 120H919" stroke="#71ad8f" opacity=".6"/>
+  </g>
+  <g fill="#0d1117" stroke="#71ad8f" stroke-width="1.7">
+    <circle cx="759" cy="84" r="3.4"/><circle cx="759" cy="120" r="3.4"/><circle cx="759" cy="156" r="3.4"/>
+    <circle cx="1097" cy="107" r="3.4"/><circle cx="1097" cy="169" r="3.4"/>
+  </g>
+  <circle cx="850" cy="120" r="3" fill="#a0d5b4"/>
+  <circle cx="999" cy="121" r="3" fill="#a0d5b4"/>
+</g><path d="M0 194H600" stroke="#2b4036"/></svg>

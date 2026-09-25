@@ -1,9 +1,16 @@
-# Dylan Wang
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="https://raw.githubusercontent.com/Ehekatl/Ehekatl/main/assets/profile-dark-mobile.svg">
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Ehekatl/Ehekatl/main/assets/profile-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ehekatl/Ehekatl/main/assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ehekatl/Ehekatl/main/assets/profile-light.svg">
+  <img alt="Dylan Wang — agent systems, developer platforms and distributed infrastructure" src="https://raw.githubusercontent.com/Ehekatl/Ehekatl/main/assets/profile-light.svg" width="1120">
+</picture>
 
-I build agent systems and developer platforms at **PineAI**.
-
-My work spans our personal and business assistants—from agent harnesses and backend services to the infrastructure they run on.
+I design and build systems at **PineAI**, across our personal and business assistants. My work spans agent harnesses, backend services and the infrastructure behind them.
 
 ### Selected work
 
-**[Pine Computer](https://developers.pine.im/computer/)** gives agents a computer with a browser, shell and files, an API for orchestration, and a live desktop for human handoff. I designed and built it from scratch and own it end to end.
+**[Pine Computer](https://developers.pine.im/computer/)**  
+Designed and built from scratch; I own the platform end to end. A computer for agents, with browser, shell and filesystem access through an API.
+
+<sub>Open-source contributions: <a href="https://github.com/netdata/netdata/pulls?q=is%3Apr+is%3Amerged+author%3AEhekatl">Netdata</a>.</sub>
