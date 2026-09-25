@@ -12,5 +12,3 @@ I design and build systems at **PineAI**, across our personal and business assis
 
 **[Pine Computer](https://developers.pine.im/computer/)**  
 Designed and built from scratch; I own the platform end to end. A computer for agents, with browser, shell and filesystem access through an API.
-
-<sub>Open-source contributions: <a href="https://github.com/netdata/netdata/pulls?q=is%3Apr+is%3Amerged+author%3AEhekatl">Netdata</a>.</sub>
